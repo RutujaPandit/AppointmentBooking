@@ -1,0 +1,130 @@
+.form1{
+    margin:70px 250px;
+    background-color: white;
+    box-shadow: 0px 5px 20px 0px #888888;
+    border-radius: 10px;
+
+}
+
+.form-control{
+    border:2px solid rgb(21, 162, 243);
+    margin-bottom: 10px;
+}
+
+.form-check-input{
+
+       background-color: green !important;
+       padding :10px 25px 10px 20px;
+       margin:0px 15px 0px 0px;
+}
+
+.Atype{
+    margin-top: 30px;
+    
+}
+
+.form-select{
+
+    border:2px solid rgb(21, 162, 243);
+    margin-bottom: 40px;
+    margin-left: 144px;
+    margin-top: -28px;
+}
+
+
+.label{
+    
+    margin-left: 90px;
+    margin-top: -25px;
+    width: 180px;
+    border-radius: 10px;
+    border: 2px solid rgb(21, 162, 243);
+
+}
+#ShortNote{
+    
+    width: 28rem;
+    height: 6rem;
+    border:2px solid rgb(21, 162, 243);
+    margin: auto;
+    text-align: center;
+    align-self: center;
+    border-radius: 1.20rem;
+    
+  }
+
+  #PrescriptionNote{
+    
+    width: 28rem;
+    height: 6rem;
+    border:2px solid rgb(21, 162, 243);
+    margin: auto;
+    text-align: center;
+    align-self: center;
+    border-radius: 1.20rem;
+    
+  }
+
+.dediv{
+
+    margin-left: 100px;
+    
+}
+.appdiv{
+
+    margin-left: 110px;
+}
+#dev{
+
+    margin:0px 30px 0px 30px;
+}
+
+.h1{
+    color: blue;
+    font-size: 30px;
+    margin-left: 90px;
+}
+
+#Cancel{
+    margin-left: 300px;
+     padding: 0.5rem 6rem;
+    font-size: 1.25rem;
+    border-radius: 32.3rem;
+}
+
+#Book{
+    margin-right: 50px;
+    padding: 0.5rem 6rem;
+    font-size: 1.25rem;
+    border-radius: 32.3rem;
+}  
+
+#btn2{
+
+    margin-right: 300px;
+    padding: 5px 50px 5px 50px;
+    border-radius: 20px;
+
+}
+
+.icons {
+    display: inline-block;
+    position:fixed;
+    width: 60px;
+    background-color: rgb(50, 103, 219) !important;
+    padding: 540px;
+    margin: 64px 0px 0px -12px;
+}
+.icons1{
+    position: relative;
+    left: -22px;
+}
+
+.icons i {
+    padding: 45px 0 10px 10px;
+    font-size: 22px;
+    color: white;
+    display: inline-block;
+}
+
+  

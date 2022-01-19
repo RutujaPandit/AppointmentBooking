@@ -1,0 +1,20 @@
+#navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#img{
+    border-radius: 60%;
+    width: 145px;
+    margin-left: 90%;
+    margin-top:5px;
+    height:45px;
+    font-weight: bold;
+}
+
+img{
+    border-radius: 60%;
+    width: 50px;
+    height:45px;
+}
