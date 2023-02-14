@@ -1,3 +1,25 @@
+Api dummy data for testing
+
+{"Title":"tret", 
+        "AppointmentDate":"erte", 
+        "AppointmentTime":"erter", 
+        "AppointmentChannel":"yes",  
+        "AppointmentType":"erter", 
+        "AppointmentStatus":"active",
+        
+        "FirstName":"erter",
+        "LastName":"ertre",
+        "BookedDate":"erter",
+        "Address":"ertre",
+        "City":"ert",
+        "State":"ertre",
+        "pincode":"ertre",
+        "country":"ertt",
+        "UserId":"810459219",
+        "ClinicId":"122990548",
+        "DoctorId":"45346070"
+        }
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
